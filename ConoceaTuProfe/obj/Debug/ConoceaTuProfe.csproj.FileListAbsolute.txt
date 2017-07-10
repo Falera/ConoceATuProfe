@@ -1,0 +1,53 @@
+C:\Users\alumno\Desktop\ConoceaTuProfe\ConoceaTuProfe\bin\ConoceaTuProfe.dll.config
+C:\Users\alumno\Desktop\ConoceaTuProfe\ConoceaTuProfe\bin\ConoceaTuProfe.dll
+C:\Users\alumno\Desktop\ConoceaTuProfe\ConoceaTuProfe\bin\ConoceaTuProfe.pdb
+C:\Users\alumno\Desktop\ConoceaTuProfe\ConoceaTuProfe\obj\Debug\ConoceaTuProfe.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\ConoceaTuProfe\ConoceaTuProfe\obj\Debug\ConoceaTuProfe.dll
+C:\Users\alumno\Desktop\ConoceaTuProfe\ConoceaTuProfe\obj\Debug\ConoceaTuProfe.pdb
+C:\Users\Lider\Desktop\Proyecto PMP\ConoceATuProfe\ConoceATuProfe\ConoceaTuProfe\bin\ConoceaTuProfe.dll.config
+C:\Users\Lider\Desktop\Proyecto PMP\ConoceATuProfe\ConoceATuProfe\ConoceaTuProfe\bin\ConoceaTuProfe.dll
+C:\Users\Lider\Desktop\Proyecto PMP\ConoceATuProfe\ConoceATuProfe\ConoceaTuProfe\bin\ConoceaTuProfe.pdb
+C:\Users\Lider\Desktop\Proyecto PMP\ConoceATuProfe\ConoceATuProfe\ConoceaTuProfe\obj\Debug\ConoceaTuProfe.csprojResolveAssemblyReference.cache
+C:\Users\Lider\Desktop\Proyecto PMP\ConoceATuProfe\ConoceATuProfe\ConoceaTuProfe\obj\Debug\ConoceaTuProfe.dll
+C:\Users\Lider\Desktop\Proyecto PMP\ConoceATuProfe\ConoceATuProfe\ConoceaTuProfe\obj\Debug\ConoceaTuProfe.pdb
+C:\Users\JORGE SALAS\Documents\GitHub\ConoceATuProfe\ConoceATuProfe\ConoceaTuProfe\bin\ConoceaTuProfe.dll.config
+C:\Users\JORGE SALAS\Documents\GitHub\ConoceATuProfe\ConoceATuProfe\ConoceaTuProfe\bin\ConoceaTuProfe.dll
+C:\Users\JORGE SALAS\Documents\GitHub\ConoceATuProfe\ConoceATuProfe\ConoceaTuProfe\bin\ConoceaTuProfe.pdb
+C:\Users\JORGE SALAS\Documents\GitHub\ConoceATuProfe\ConoceATuProfe\ConoceaTuProfe\obj\Debug\ConoceaTuProfe.csprojResolveAssemblyReference.cache
+C:\Users\JORGE SALAS\Documents\GitHub\ConoceATuProfe\ConoceATuProfe\ConoceaTuProfe\obj\Debug\ConoceaTuProfe.dll
+C:\Users\JORGE SALAS\Documents\GitHub\ConoceATuProfe\ConoceATuProfe\ConoceaTuProfe\obj\Debug\ConoceaTuProfe.pdb
+C:\Users\alumno\Documents\GitHub\ConoceATuProfe\ConoceATuProfe\ConoceaTuProfe\bin\ConoceaTuProfe.dll.config
+C:\Users\alumno\Documents\GitHub\ConoceATuProfe\ConoceATuProfe\ConoceaTuProfe\bin\ConoceaTuProfe.dll
+C:\Users\alumno\Documents\GitHub\ConoceATuProfe\ConoceATuProfe\ConoceaTuProfe\bin\ConoceaTuProfe.pdb
+C:\Users\alumno\Documents\GitHub\ConoceATuProfe\ConoceATuProfe\ConoceaTuProfe\obj\Debug\ConoceaTuProfe.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Documents\GitHub\ConoceATuProfe\ConoceATuProfe\ConoceaTuProfe\obj\Debug\ConoceaTuProfe.dll
+C:\Users\alumno\Documents\GitHub\ConoceATuProfe\ConoceATuProfe\ConoceaTuProfe\obj\Debug\ConoceaTuProfe.pdb
+C:\Users\Windows\Downloads\ConoceATuProfe-master\ConoceATuProfe\ConoceaTuProfe\bin\ConoceaTuProfe.dll.config
+C:\Users\Windows\Downloads\ConoceATuProfe-master\ConoceATuProfe\ConoceaTuProfe\bin\ConoceaTuProfe.dll
+C:\Users\Windows\Downloads\ConoceATuProfe-master\ConoceATuProfe\ConoceaTuProfe\bin\ConoceaTuProfe.pdb
+C:\Users\Windows\Downloads\ConoceATuProfe-master\ConoceATuProfe\ConoceaTuProfe\obj\Debug\ConoceaTuProfe.csprojResolveAssemblyReference.cache
+C:\Users\Windows\Downloads\ConoceATuProfe-master\ConoceATuProfe\ConoceaTuProfe\obj\Debug\ConoceaTuProfe.dll
+C:\Users\Windows\Downloads\ConoceATuProfe-master\ConoceATuProfe\ConoceaTuProfe\obj\Debug\ConoceaTuProfe.pdb
+C:\Users\alumno\Desktop\ConoceATuProfe\ConoceATuProfe\ConoceaTuProfe\bin\ConoceaTuProfe.dll.config
+C:\Users\alumno\Desktop\ConoceATuProfe\ConoceATuProfe\ConoceaTuProfe\bin\ConoceaTuProfe.dll
+C:\Users\alumno\Desktop\ConoceATuProfe\ConoceATuProfe\ConoceaTuProfe\bin\ConoceaTuProfe.pdb
+C:\Users\alumno\Desktop\ConoceATuProfe\ConoceATuProfe\ConoceaTuProfe\obj\Debug\ConoceaTuProfe.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\ConoceATuProfe\ConoceATuProfe\ConoceaTuProfe\obj\Debug\ConoceaTuProfe.dll
+C:\Users\alumno\Desktop\ConoceATuProfe\ConoceATuProfe\ConoceaTuProfe\obj\Debug\ConoceaTuProfe.pdb
+C:\Users\Windows\Downloads\ConoceATuProfe\ConoceATuProfe\ConoceATuProfe\ConoceaTuProfe\bin\ConoceaTuProfe.dll.config
+C:\Users\Windows\Downloads\ConoceATuProfe\ConoceATuProfe\ConoceATuProfe\ConoceaTuProfe\bin\ConoceaTuProfe.dll
+C:\Users\Windows\Downloads\ConoceATuProfe\ConoceATuProfe\ConoceATuProfe\ConoceaTuProfe\bin\ConoceaTuProfe.pdb
+C:\Users\Windows\Downloads\ConoceATuProfe\ConoceATuProfe\ConoceATuProfe\ConoceaTuProfe\obj\Debug\ConoceaTuProfe.dll
+C:\Users\Windows\Downloads\ConoceATuProfe\ConoceATuProfe\ConoceATuProfe\ConoceaTuProfe\obj\Debug\ConoceaTuProfe.pdb
+C:\Users\USUARIO\Desktop\ConoceATuProfe\ConoceaTuProfe\bin\ConoceaTuProfe.dll.config
+C:\Users\USUARIO\Desktop\ConoceATuProfe\ConoceaTuProfe\bin\ConoceaTuProfe.dll
+C:\Users\USUARIO\Desktop\ConoceATuProfe\ConoceaTuProfe\bin\ConoceaTuProfe.pdb
+C:\Users\USUARIO\Desktop\ConoceATuProfe\ConoceaTuProfe\obj\Debug\ConoceaTuProfe.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\ConoceATuProfe\ConoceaTuProfe\obj\Debug\ConoceaTuProfe.dll
+C:\Users\USUARIO\Desktop\ConoceATuProfe\ConoceaTuProfe\obj\Debug\ConoceaTuProfe.pdb
+C:\Users\JORGE SALAS\Videos\ConoceATuProfe\ConoceaTuProfe\bin\ConoceaTuProfe.dll.config
+C:\Users\JORGE SALAS\Videos\ConoceATuProfe\ConoceaTuProfe\bin\ConoceaTuProfe.dll
+C:\Users\JORGE SALAS\Videos\ConoceATuProfe\ConoceaTuProfe\bin\ConoceaTuProfe.pdb
+C:\Users\JORGE SALAS\Videos\ConoceATuProfe\ConoceaTuProfe\obj\Debug\ConoceaTuProfe.csprojResolveAssemblyReference.cache
+C:\Users\JORGE SALAS\Videos\ConoceATuProfe\ConoceaTuProfe\obj\Debug\ConoceaTuProfe.dll
+C:\Users\JORGE SALAS\Videos\ConoceATuProfe\ConoceaTuProfe\obj\Debug\ConoceaTuProfe.pdb

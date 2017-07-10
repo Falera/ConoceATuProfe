@@ -1,0 +1,155 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master.Master.cs" Inherits="ConoceaTuProfe.Mastes" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>ConoceATuProfe</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous" />
+    <link rel="icon" href="images/Cusil.ico" type="image/x-icon" />
+    <link href="PagMaTo.css" rel="stylesheet" />
+
+    <link href="css/estilos.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+
+    <!--========================================================== HEADER ======================================-->
+    <div id="contenedor">
+        <form runat="server">
+        <header id="header">
+            <section class="izq"></section>
+
+            <section class="der" style="">
+
+                
+                    <asp:FormView ID="FormView1" runat="server" DataSourceID="sdsPerfil">
+
+                        <ItemTemplate>
+                            <div style="" id="miperfil" class="row">
+                                <div class="col-md-4">
+                                    <img class="img-thumbnail" style="width: 100px;" src="<%#Eval("Foto") %>" /></div>
+                                <div class="col-md-5">
+                                    <span>
+                                        <asp:Label CssClass="nombrelabel" Text='<%# Bind("Nombre") %>' runat="server" ID="NombreLabel" />
+
+                                    </span>
+                                    <br />
+                                    Alias:
+                                <asp:Label CssClass="aliaslabel" Text='<%# Bind("Alias") %>' runat="server" ID="AliasLabel" /><br />
+                                </div>
+                                <div class="col-md-3" style="color: #000000;">
+                                    <a href="Default.aspx">
+                                        <img title="Cerrar Sesión" style="width: 30px;" src="https://themalayanplazahotel.com/wp-content/plugins/convertplug/modules/assets/images/xdefault.png.pagespeed.ic.7TppN3KBk7.png" /></a>
+                                    <br />
+                                    <br />
+                                    <a href="Default.aspx">
+                                        <img title="Editar Perfil" style="width: 30px;" src="https://image.freepik.com/iconos-gratis/editar-botones-de-la-interfaz-de-documentos-de-texto_318-31874.jpg" /></a>
+                                </div>
+
+
+                            </div>
+
+
+                        </ItemTemplate>
+                    </asp:FormView>
+
+                    <asp:SqlDataSource runat="server" ID="sdsPerfil" ConnectionString="Data Source=JORGE\SQLSERVER2014;Initial Catalog=ConoceATuProfe;Integrated Security=True" ProviderName="System.Data.SqlClient" SelectCommand="SELECT [Nombre], [Alias], [Foto] FROM [Alumno] WHERE ([Nombre] = @Nombre)">
+                        <SelectParameters>
+                            <asp:QueryStringParameter QueryStringField="n" Name="Nombre" Type="String"></asp:QueryStringParameter>
+                        </SelectParameters>
+
+                    </asp:SqlDataSource>
+                    <!--
+    <span ><asp:Label ID="Label1" runat="server" Text="Nombre Completo"></asp:Label></span><br /><br />
+                    <span><asp:Label ID="Label2" runat="server" Text="Alias"></asp:Label></span>
+                </section>
+                <section id="fotoyl" style="width:30%; margin-left:70%;">
+                    <br />
+
+
+                    <span>Foto  &#9660
+                        <select name="menuDesp" style=" width:40%; margin-top: 0;">
+                           <option value="1"> <a href="Splash.html">Inicio</a></option>
+                            <option value="2">Editar</option>
+                            <option value="3">Salir </option>
+                    
+                         </select>
+                    
+
+                    </span>
+
+            -->
+            </section>
+            <section id="cen">
+
+                <img style="height: 100%;" src="images/Maestralogo.jpg" />
+
+            </section>
+        </header>
+
+        <!--=================================================== CUERPO ================================================== -->
+        <div id="container">
+
+            <!-----------------buscador------------->
+            <div class="search-box-wrapper ">
+
+                <!--<section class="izq"></section>
+                    <section class="der"></section>-->
+                <div class="row">
+                    <div class="col-md-1 col-xs-12 "></div>
+
+                    <div class="col-md-5 col-xs-12 ">
+                        <fieldset id="buscador">
+
+                            <asp:TextBox class="search-box-input" placeholder="Buscar por nombre" ID="TextBox1" runat="server"></asp:TextBox>
+                            <button class="search-box-buttom">
+                                &#x1f50e;
+                               
+                            </button>
+
+                        </fieldset>
+
+                    </div>
+                    <div class="col-md-1 col-xs-12 "></div>
+                    <div class="col-md-5 col-xs-12 ">
+                        <fieldset id="">
+                            
+                            <asp:TextBox ID="TextBox2" class="search-box-input"  placeholder="Buscar por curso"  runat="server"></asp:TextBox>
+                             <asp:Button CssClass="search-box-buttom" ID="Button1" runat="server" Text="Buscar" />
+                           
+
+                        </fieldset>
+                    </div>
+                </div>
+
+
+
+
+
+               
+
+           
+            </div>
+
+            <!----------------CPH-------------------->
+            <div id="cph">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+
+
+        </div>
+
+     </form>
+        <footer>
+            &copy; ConoceATuProfe Usil-2017 Jorge, Yahaira, Synthia, Marleni, Yo :v 
+       
+        </footer>
+
+    </div>
+
+</body>
+</html>

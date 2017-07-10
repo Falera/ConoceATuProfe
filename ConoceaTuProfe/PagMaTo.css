@@ -1,0 +1,178 @@
+﻿#contenedor {
+    width: 1000px;
+    margin: auto;
+    color: #ffffff;
+    border: none;
+    border-radius: 2px;
+    box-shadow: 3px 3px 5px 0px rgba(0, 0, 0, 0.41);
+}
+
+
+#izq {
+    float: left;
+    width: 30%;
+}
+
+#der {
+    float: right;
+    width: 30%;
+}
+
+#cen {
+    margin-left: 30%;
+    margin-right: 30%;
+    height: 120px;
+    color: #909086;
+    font-size: 10px;
+}
+
+    #cen img {
+        height: 75px;
+    }
+
+    #header {
+    
+    background: #15166B;
+    text-align:center;
+    padding:10px;
+    }
+
+
+    .search-box-wrapper {
+    
+        
+        
+        font-size: 20px;
+        width:100%;
+        border:1px solid black;
+        
+        
+
+    }
+
+   i#buscador{
+        margin-left:30%;
+        margin-right:30%;
+        text-align:center;  
+        width:40%;
+
+    }
+
+        
+
+  
+
+
+    .search-box-input{
+        font-size:inherit;
+        color: #15166B;
+        border: 0.2em solid #0026ff;
+        border-radius:0.5em 0 0 0.5em;
+        padding: 0.2em 0.5em;
+        
+        outline: 0;
+    }
+
+     .search-box-input:hover,
+      .search-box-input:focus {
+         border-color: #15166B;
+
+     }
+
+    .search-box-buttom{
+     font-size:inherit;
+     border: 0.2em solid #0026ff;
+     border-radius: 0 0.5em 0.5em 0;
+     background-color: #0026ff;
+     border-left: 0;
+     padding: 0 0.75em;
+    color: white;
+    font-weight: bold;
+    outline: 0;
+    cursor: pointer;
+
+    }
+
+    .search-box-buttom:hover,
+    .search-box-buttom:focus{
+        border-color: #0026ff;
+        background-color: #0026ff;
+    }
+
+
+footer {
+    color: #fff;
+    padding: 10px;
+    background: #808080;
+    text-align: center;
+}
+
+
+.izq{
+    float:left;
+    width:30%;
+}
+
+.der{
+    float:right;
+    width:30%;
+
+}
+
+#cph{
+    color:#000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.social {
+	position: fixed; /* Hacemos que la posición en pantalla sea fija para que siempre se muestre en pantalla*/
+	left: 0; /* Establecemos la barra en la izquierda */
+	top: 200px; /* Bajamos la barra 200px de arriba a abajo */
+	z-index: 2000; /* Utilizamos la propiedad z-index para que no se superponga algún otro elemento como sliders, galerías, etc */
+}
+ 
+	.social ul {
+		list-style: none;
+	}
+ 
+	.social ul li a {
+		display: inline-block;
+		color:#fff;
+		background: #000;
+		padding: 10px 15px;
+		text-decoration: none;
+		-webkit-transition:all 500ms ease;
+		-o-transition:all 500ms ease;
+		transition:all 500ms ease; /* Establecemos una transición a todas las propiedades */
+	}
+ 
+	.social ul li .icon-facebook {background:#3b5998;} /* Establecemos los colores de cada red social, aprovechando su class */
+	.social ul li .icon-twitter {background: #00abf0;}
+	.social ul li .icon-googleplus {background: #d95232;}
+	.social ul li .icon-pinterest {background: #ae181f;}
+	.social ul li .icon-mail {background: #666666;}
+ 
+	.social ul li a:hover {
+		background: #000; /* Cambiamos el fondo cuando el usuario pase el mouse */
+		padding: 10px 30px; /* Hacemos mas grande el espacio cuando el usuario pase el mouse */
+	}
+
+
+
+   
+    
+    
