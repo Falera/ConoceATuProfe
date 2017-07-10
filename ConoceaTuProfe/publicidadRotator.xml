@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+
+
+<Advertisements>
+  <Ad>
+
+    <ImageUrl>http://s2.subirimagenes.com/imagen/previo/thump_9764812bachiller.png
+    </ImageUrl>
+
+    <NavigateUrl>http://www.usil.edu.pe
+    </NavigateUrl>
+    
+    <Impressions>50
+    </Impressions>
+    
+  </Ad>  
+
+  <Ad>
+
+    <ImageUrl>http://i.imgur.com/oGx1eNy.png
+    </ImageUrl>
+
+    <NavigateUrl>http://usil.tv/
+    </NavigateUrl>
+    
+    <Impressions>50
+    </Impressions>
+    
+  </Ad>  
+ 
+
+
+</Advertisements>

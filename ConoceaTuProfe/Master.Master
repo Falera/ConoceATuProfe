@@ -19,18 +19,19 @@
     <!--========================================================== HEADER ======================================-->
     <div id="contenedor">
         <form runat="server">
-        <header id="header">
-            <section class="izq"></section>
+            <header id="header">
+                <section class="izq"></section>
 
-            <section class="der" style="">
+                <section class="der" style="">
 
-                
+
                     <asp:FormView ID="FormView1" runat="server" DataSourceID="sdsPerfil">
 
                         <ItemTemplate>
                             <div style="" id="miperfil" class="row">
                                 <div class="col-md-4">
-                                    <img class="img-thumbnail" style="width: 100px;" src="<%#Eval("Foto") %>" /></div>
+                                    <img class="img-thumbnail" style="width: 100px;" src="<%#Eval("Foto") %>" />
+                                </div>
                                 <div class="col-md-5">
                                     <span>
                                         <asp:Label CssClass="nombrelabel" Text='<%# Bind("Nombre") %>' runat="server" ID="NombreLabel" />
@@ -82,68 +83,75 @@
                     </span>
 
             -->
-            </section>
-            <section id="cen">
+                </section>
+                <section id="cen">
 
-                <img style="height: 100%;" src="images/Maestralogo.jpg" />
+                    <img style="height: 100%;" src="images/Maestralogo.jpg" />
 
-            </section>
-        </header>
+                </section>
+            </header>
 
-        <!--=================================================== CUERPO ================================================== -->
-        <div id="container">
+            <!--=================================================== CUERPO ================================================== -->
+            <div id="container">
 
-            <!-----------------buscador------------->
-            <div class="search-box-wrapper ">
+                <!-----------------buscador------------->
+                <div class="search-box-wrapper ">
 
-                <!--<section class="izq"></section>
+                    <!--<section class="izq"></section>
                     <section class="der"></section>-->
-                <div class="row">
-                    <div class="col-md-1 col-xs-12 "></div>
+                    <div class="row">
+                        <div class="col-md-1 col-xs-12 "></div>
 
-                    <div class="col-md-5 col-xs-12 ">
-                        <fieldset id="buscador">
+                        <div class="col-md-5 col-xs-12 ">
+                            <fieldset id="buscador">
 
-                            <asp:TextBox class="search-box-input" placeholder="Buscar por nombre" ID="TextBox1" runat="server"></asp:TextBox>
-                            <button class="search-box-buttom">
-                                &#x1f50e;
+                                <asp:TextBox class="search-box-input" placeholder="Buscar por nombre" ID="TextBox1" runat="server"></asp:TextBox>
+                                <button class="search-box-buttom">
+                                    &#x1f50e;
                                
-                            </button>
+                                </button>
 
-                        </fieldset>
+                            </fieldset>
 
+                        </div>
+                        <div class="col-md-1 col-xs-12 "></div>
+                        <div class="col-md-5 col-xs-12 ">
+                            <fieldset id="">
+
+                                <asp:TextBox ID="TextBox2" class="search-box-input" placeholder="Buscar por curso" runat="server"></asp:TextBox>
+                                <asp:Button CssClass="search-box-buttom" ID="Button1" runat="server" Text="Buscar" />
+
+
+                            </fieldset>
+                        </div>
                     </div>
-                    <div class="col-md-1 col-xs-12 "></div>
-                    <div class="col-md-5 col-xs-12 ">
-                        <fieldset id="">
-                            
-                            <asp:TextBox ID="TextBox2" class="search-box-input"  placeholder="Buscar por curso"  runat="server"></asp:TextBox>
-                             <asp:Button CssClass="search-box-buttom" ID="Button1" runat="server" Text="Buscar" />
-                           
 
-                        </fieldset>
-                    </div>
+
                 </div>
 
+                <!----------------CPH-------------------->
+                <div id="cph">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+
+                <aside id="publicidad">
+
+                    <asp:AdRotator ID="AdRotator1" runat="server" DataSourceID="ConexionAlaPublicidad" />
+
+                    <asp:XmlDataSource runat="server" ID="ConexionAlaPublicidad" DataFile="~/publicidadRotator.xml"></asp:XmlDataSource>
+
+                </aside>
 
 
-
-
-               
-
-           
             </div>
 
-            <!----------------CPH-------------------->
-            <div id="cph">
-                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
-                </asp:ContentPlaceHolder>
-            </div>
+        </form>
 
 
-        </div>
 
-     </form>
+        <!--|||||||||||||||||||||||||||FOOTER|||||||||||||||||||||||||||||||||||||-->
+
         <footer>
             &copy; ConoceATuProfe Usil-2017 Jorge, Yahaira, Synthia, Marleni, Yo :v 
        

@@ -51,3 +51,9 @@ C:\Users\JORGE SALAS\Videos\ConoceATuProfe\ConoceaTuProfe\bin\ConoceaTuProfe.pdb
 C:\Users\JORGE SALAS\Videos\ConoceATuProfe\ConoceaTuProfe\obj\Debug\ConoceaTuProfe.csprojResolveAssemblyReference.cache
 C:\Users\JORGE SALAS\Videos\ConoceATuProfe\ConoceaTuProfe\obj\Debug\ConoceaTuProfe.dll
 C:\Users\JORGE SALAS\Videos\ConoceATuProfe\ConoceaTuProfe\obj\Debug\ConoceaTuProfe.pdb
+C:\Users\Lider\Desktop\Proyecto PMP\ConoceATuProfe\ConoceaTuProfe\bin\ConoceaTuProfe.dll.config
+C:\Users\Lider\Desktop\Proyecto PMP\ConoceATuProfe\ConoceaTuProfe\bin\ConoceaTuProfe.dll
+C:\Users\Lider\Desktop\Proyecto PMP\ConoceATuProfe\ConoceaTuProfe\bin\ConoceaTuProfe.pdb
+C:\Users\Lider\Desktop\Proyecto PMP\ConoceATuProfe\ConoceaTuProfe\obj\Debug\ConoceaTuProfe.csprojResolveAssemblyReference.cache
+C:\Users\Lider\Desktop\Proyecto PMP\ConoceATuProfe\ConoceaTuProfe\obj\Debug\ConoceaTuProfe.dll
+C:\Users\Lider\Desktop\Proyecto PMP\ConoceATuProfe\ConoceaTuProfe\obj\Debug\ConoceaTuProfe.pdb
